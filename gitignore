@@ -1,0 +1,18 @@
+# Visual Studio 缓存与编译输出
+.vs/
+x64/
+Debug/
+Release/
+*.user
+
+# 编译产物
+*.exe
+*.dll
+*.lib
+*.exp
+*.pdb
+*.obj
+
+# Python
+__pycache__/
+*.pyc
